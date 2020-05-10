@@ -4,3 +4,5 @@ Este es un pequeño cambio
 Estes es otro cambio
 
 Se implementa característica 2
+
+Se comienza a implemnetar característica 2.1 
