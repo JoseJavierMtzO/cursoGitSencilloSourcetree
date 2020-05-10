@@ -2,3 +2,5 @@ Este es el fichero 1
 
 Este es un pequeño cambio
 Estes es otro cambio
+
+Se implementa característica 2
