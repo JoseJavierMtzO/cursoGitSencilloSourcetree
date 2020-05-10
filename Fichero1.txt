@@ -12,3 +12,5 @@ Aplico el hotfix
 Commit 1 fastforward
 
 Commit 2 fastforward
+
+Se implementa característica 3
