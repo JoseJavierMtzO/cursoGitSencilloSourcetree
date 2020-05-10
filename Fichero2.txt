@@ -1,8 +1,7 @@
-Arriba
+
 
 Este fichero si se comittea
 
 //comentario
 //
 
-Abajo
