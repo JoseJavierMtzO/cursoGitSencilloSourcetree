@@ -9,3 +9,6 @@ Se comienza a implemnetar característica 2.1
 
 Aplico el hotfix
 
+Commit 1 fastforward
+
+Commit 2 fastforward
