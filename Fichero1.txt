@@ -11,5 +11,9 @@ Aplico el hotfix
 Commit 1 fastforward
 Commit 2 fastforward
 
+Se implementa característica 3
+Se implementa característica 3.1
+
 Aplico el hotfix 2
 
+Aplico cambio que se me olvidó en el commit anterior
