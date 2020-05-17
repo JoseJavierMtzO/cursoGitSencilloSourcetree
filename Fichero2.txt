@@ -6,3 +6,5 @@ Este fichero si se comittea
 //
 
 aplico el hot fix 2
+
+Cambio directamente desde el repo gitHUb
