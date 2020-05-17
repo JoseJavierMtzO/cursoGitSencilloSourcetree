@@ -20,3 +20,5 @@ Aplico cambio que se me olvidó en el commit anterior
 
 Cambio para repo remoto github
 Cambio para el remoto origin
+
+Cambio desde GitHub
