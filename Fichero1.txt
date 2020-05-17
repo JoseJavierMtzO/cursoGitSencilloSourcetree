@@ -17,3 +17,5 @@ Se implementa característica 3.1
 Aplico el hotfix 2
 
 Aplico cambio que se me olvidó en el commit anterior
+
+Cambio para repo remoto github
