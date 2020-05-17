@@ -6,3 +6,5 @@ Este fichero si se comittea
 //
 
 aplico el hot fix 2
+
+Cambio tras checkout de branch hot fix
