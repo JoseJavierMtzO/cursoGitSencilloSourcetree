@@ -22,3 +22,5 @@ Cambio para repo remoto github
 Cambio para el remoto origin
 
 Cambio desde GitHub
+
+Inicia característica 4
